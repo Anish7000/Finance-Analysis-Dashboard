@@ -9,7 +9,7 @@ The objective of this project is to:
 - Improve transparency in financial performance for business.
 
 ## Dataset used
-- <a href="https://github.com/Anish7000/Finance-Analysis-Dashboard/blob/main/Finance_Expenses.csv">
+- <a href="https://github.com/Anish7000/Finance-Analysis-Dashboard/blob/main/Finance_Expenses.csv">dataset</a>
 
 ## Question (KPIs)
 - Which expense categories contribute the most to total spending.
